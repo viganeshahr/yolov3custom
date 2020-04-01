@@ -1,0 +1,4 @@
+classes=43
+train=data/train.txt
+valid=data/train.txt
+names=data/coco.names
